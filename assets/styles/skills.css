@@ -1,5 +1,3 @@
-@import url("../styles/animation.css");
-
 .skills {
   position: relative;
   display: flex;
@@ -51,10 +49,6 @@
 }
 .card__icons {
   font-size: 10rem;
-}
-
-.card:hover > .card__icons {
-  animation: floatingIcon 3s ease infinite 0.4s;
 }
 .card__icons--javascript {
   font-size: 8.5rem;
